@@ -1,0 +1,13 @@
+.Head{
+  text-align: center;
+}
+.skills{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  word-spacing: 5px;
+}
+.card img{
+  width: 45%;
+  margin: 10px;
+}
